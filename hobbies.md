@@ -6,14 +6,14 @@ title: Hobbies
 
 # Hobbies
 
-update
+
 
 ## Diet Coke
 
 <!-- <div class="third"> -->
 <!-- <img src="/images/swimming2.JPG"> -->
 <!-- <img src="/images/swimming.JPG"> -->
-<img src="/images/coke.JPG">
+<img src="https://ruiyunk16.github.io/images/coke.jpg">
 <!-- </div> -->
 <br>I am a proficient Diet Coke photographer.
 
@@ -27,7 +27,7 @@ I previously enjoyed Rubik's Cube, and once joined in the [West Coast Cubing](ht
 Its name is Tralalero tralala.
 
 <div>
-<img src="/images/pet.JPG">
+<img src="https://ruiyunk16.github.io/images/pet.png">
 </div>
 <br>
 
