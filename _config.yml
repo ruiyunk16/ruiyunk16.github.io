@@ -5,9 +5,9 @@ title: Ruiyun Kang
 url: "https://ruiyunk16.github.io"
 
 # Owner/author information
-author:
+owner:
   name: Ruiyun Kang
-  avatar: "/me.jpg"
+  avatar: https://ruiyunk16.github.io/me.jpg
   email: rk789@cornell.edu
   cv: https://ruiyunk16.github.io/file/Kang_Ruiyun_Resume.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -24,7 +24,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # Links to include in top navigation
 # For external links add external: true
-navigation:
+links:
   - title: About Me
     url: /
   - title: Hobbies
@@ -32,7 +32,7 @@ navigation:
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: US/New York
 future: true
 highlighter: rouge
 # markdown: kramdown
