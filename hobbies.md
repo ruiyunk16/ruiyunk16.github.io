@@ -18,7 +18,7 @@ update
 <br>I am a proficient Diet Coke photographer.
 
 
-## Past Hobbies
+## Rubik's cube
 
 I previously enjoyed Rubik's Cube, and once joined in the [West Coast Cubing](https://www.worldcubeassociation.org/persons/2019KANG12) competition.
 
